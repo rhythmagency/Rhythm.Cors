@@ -13,7 +13,7 @@
     <description>$description$</description>
     <releaseNotes>Initial release.</releaseNotes>
     <copyright>Copyright © Rhythm 2019</copyright>
-    <tags>web umbraco redirect</tags>
+    <tags>.NET web CORS</tags>
   </metadata>
   <files>
     <!--<file src="PackageContent\readme.txt" target="" />-->
