@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.779
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rhythm.Cors", "Rhythm.Cors\Rhythm.Cors.csproj", "{9567A3AF-A4F9-4D00-B79D-3319BE31E8B8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rhythm.Cors", "Rhythm.Cors\Rhythm.Cors.csproj", "{C2C7FD7C-6352-48A5-8611-BF32235C489D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9567A3AF-A4F9-4D00-B79D-3319BE31E8B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9567A3AF-A4F9-4D00-B79D-3319BE31E8B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9567A3AF-A4F9-4D00-B79D-3319BE31E8B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9567A3AF-A4F9-4D00-B79D-3319BE31E8B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2C7FD7C-6352-48A5-8611-BF32235C489D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2C7FD7C-6352-48A5-8611-BF32235C489D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2C7FD7C-6352-48A5-8611-BF32235C489D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2C7FD7C-6352-48A5-8611-BF32235C489D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

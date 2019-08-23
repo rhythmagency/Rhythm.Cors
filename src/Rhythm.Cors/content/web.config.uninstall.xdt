@@ -4,27 +4,19 @@
   
   <configSections>
     <section xdt:Transform="Remove" xdt:Locator="Match(name)" name="corsConfiguration" type="Rhythm.Cors.CorsConfiguration, Rhythm.Cors" />
-    <section xdt:Transform="Insert" xdt:Locator="Match(name)" name="corsConfiguration" type="Rhythm.Cors.CorsConfiguration, Rhythm.Cors" />
   </configSections>
 
   <corsConfiguration xdt:Transform="Remove" />
-  <corsConfiguration xdt:Transform="Insert">
-    <rules>
-      <!--<add domain="example.com" policy="ALLOW" />-->
-    </rules>
-  </corsConfiguration>
 
   <system.web>
     <httpModules>
-      <add xdt:Transform="Remove" xdt:Locator="Match(name)" name="RhythmCorsHandler" type="Rhythm.Cors.CorsHandler"/>
-      <add xdt:Transform="Insert" xdt:Locator="Match(name)" name="RhythmCorsHandler" type="Rhythm.Cors.CorsHandler"/>
+      <add xdt:Transform="Remove" xdt:Locator="Match(name)" name="RhythmCorsHandler" type="Rhythm.Cors.CorsHandler" />
     </httpModules>
   </system.web>
 
   <system.webServer>
     <modules>
       <add xdt:Transform="Remove" xdt:Locator="Match(name)" name="RhythmCorsHandler" type="Rhythm.Cors.CorsHandler, Rhythm.Cors" />
-      <add xdt:Transform="Insert" xdt:Locator="Match(name)" name="RhythmCorsHandler" type="Rhythm.Cors.CorsHandler, Rhythm.Cors" />
     </modules>
   </system.webServer>
 

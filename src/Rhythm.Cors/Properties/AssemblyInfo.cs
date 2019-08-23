@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Rhythm.Cors")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("A library for .NET websites which provides configurable site-wide CORS request handling.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Rhythm")]
 [assembly: AssemblyProduct("Rhythm.Cors")]
