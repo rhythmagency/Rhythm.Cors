@@ -1,0 +1,7 @@
+.vs/
+*.csproj.user
+
+.DS_Store
+Thumbs.db
+
+/src/packages/
